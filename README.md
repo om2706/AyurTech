@@ -1,36 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+AyurTech:
 
-## Getting Started
+India, with a rich heritage of floral diversity, is well-known for its medicinal plant wealth, but their identification is one of the major burning issues in Ayurvedic Pharmaceutics. Several crude drugs are being sold under the same name in the market leading to confusion and their misidentification. Even the collectors and traders are not completely aware of the exact morphological appearance or differentiating attributes of the many drugs owing to seasonal and geographical availability, and similar characteristics. . Thus, software capable of identifying different medicinal plants/ raw materials through Image Processing Using Different Machine Learning Algorithms.
 
-First, run the development server:
+The Medicinal Plant Recognition and Feature Analysis project harnesses the power of machine learning to provide a user-friendly tool for plant enthusiasts, herbalists, and researchers. By accurately identifying medicinal plants and extracting their features.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Machine Learning: The image recognition component will be powered by state-of-the-art deep learning models such as convolutional neural networks (CNNs) trained on a diverse dataset of medicinal plants.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Web/Mobile Development: For the user interface, technologies like NextJS , ReactJS for web applications or React Native for cross-platform mobile apps will be employed.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
